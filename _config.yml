@@ -1,9 +1,7 @@
-favicon: null
 name: hakimcallier
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.75658
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.001999514875933528
-  brandStrength: 1
-  lightness: 0.8130532114300877
-  brandColors:
-    - '#FF071C'
-    - '#401560'
-    - '#44D0E9'
-    - '#025C9C'
-    - '#FEFDD6'
-  rhythmicContrast: 0.7526329532265663
-typography_spectrum: 0.1182796
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-layout_spectrum: 0
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#6afb01'
+    - '#1e1bff'
+    - '#08b90a'
+    - '#ff0e01'
+    - '#fd7e5f'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.125
+  rhythmicContrast: 0.5
+purpose: []
