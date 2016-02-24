@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.5663083
+  brandStrength: 0.483871
   lightness: 0
   brandColors:
     - '#6BFB02'
