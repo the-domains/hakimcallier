@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Hakim Callier
+title: null
 cta:
   domain: null
   bucket: null
