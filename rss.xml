@@ -4,7 +4,7 @@
         <description><![CDATA[music {{ art }} style]]></description>
         <link>http://hakimcallier.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 04:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 04:05:34 GMT</lastBuildDate>
         <atom:link href="http://hakimcallier.nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 26 Feb 2016 03:55:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[new project // coming soon...]]></title>
-            <description><![CDATA[<h1>new project // coming soon...</h1>]]></description>
+            <title><![CDATA[// coming soon...]]></title>
+            <description><![CDATA[<h1>// coming soon...</h1>]]></description>
             <link>http://hakimcallier.nyc/09bd5bc3-8965-49fb-bc40-8583b545a05c/index.html</link>
             <guid isPermaLink="false">09bd5bc3-8965-49fb-bc40-8583b545a05c</guid>
-            <pubDate>Fri, 26 Feb 2016 04:01:58 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 04:03:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
