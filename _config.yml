@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: new project coming soon...
+title: null
 cta:
   domain: null
   bucket: null
