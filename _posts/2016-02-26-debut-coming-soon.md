@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T01:40:38.519Z'
-dateModified: '2016-02-26T01:40:34.513Z'
+datePublished: '2016-02-26T01:44:44.923Z'
+dateModified: '2016-02-26T01:44:30.737Z'
 title: 'Debut Coming Soon!'
 author: []
 sourcePath: _posts/2016-02-26-debut-coming-soon.md
@@ -26,6 +26,6 @@ _type: Article
 
 # Debut Coming Soon!
 
-Follow me on [Instagram][0] to see and hear samples of my new art project.
+Follow me on [Instagram][0] to see and hear samples of my debut solo project.
 
 [0]: http://instagram.com/hakimcallier
