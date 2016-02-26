@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[music // art // things to watch]]></title>
-        <description><![CDATA[music // art // things to watch]]></description>
+        <title><![CDATA[music {{ art }} style]]></title>
+        <description><![CDATA[music {{ art }} style]]></description>
         <link>http://hakimcallier.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 02:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 03:23:59 GMT</lastBuildDate>
         <atom:link href="http://hakimcallier.nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://hakimcallier.nyc/09bd5bc3-8965-49fb-bc40-8583b545a05c/index.html</link>
             <guid isPermaLink="false">09bd5bc3-8965-49fb-bc40-8583b545a05c</guid>
             <pubDate>Fri, 26 Feb 2016 02:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb032ee7-6659-4ad8-86b1-a5297f6c3119.png">]]></description>
-            <link>http://hakimcallier.nyc/aec75266-db20-4e5d-9a87-988febb34387/index.html</link>
-            <guid isPermaLink="false">aec75266-db20-4e5d-9a87-988febb34387</guid>
-            <pubDate>Fri, 26 Feb 2016 02:38:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
