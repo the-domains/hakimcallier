@@ -1,41 +1,41 @@
-name: hakimcallier
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.33177
+title: 'music {{ art }} style'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: 'music {{ art }} style'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74172259-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.75
+  brandStrength: 0.5
+  rhythmicContrast: 0
   brandColors:
     - '#68f900'
     - '#1d1cfe'
     - '#ff0d01'
     - '#63e7fe'
     - '#fc7b5b'
-  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-74172259-1
+  facebook: null
+name: hakim callier
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2060932
+layout_spectrum: 1
