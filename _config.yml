@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: music // art // things to watch
+title: 'music {{ art }} style'
 cta:
   domain: null
   bucket: null
