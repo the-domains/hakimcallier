@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T01:45:52.114Z'
-dateModified: '2016-02-26T01:44:51.604Z'
-title: 'Debut Coming Soon!'
+datePublished: '2016-02-26T01:50:14.397Z'
+dateModified: '2016-02-26T01:49:54.555Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-26-debut-coming-soon.md
 published: true
@@ -18,13 +19,12 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: debut-coming-soon/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4654e9fb53e7bbeb837ce403965837ac3b3679cc.png)
 
-# Debut Coming Soon!
+## Debut Project Coming Soon
 
 Follow me on [Instagram][0] to see and hear samples of my debut solo project.
 
