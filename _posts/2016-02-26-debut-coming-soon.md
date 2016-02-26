@@ -3,26 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T01:37:53.796Z'
-dateModified: '2016-02-26T01:37:38.285Z'
+datePublished: '2016-02-26T01:40:38.519Z'
+dateModified: '2016-02-26T01:40:34.513Z'
 title: 'Debut Coming Soon!'
 author: []
+sourcePath: _posts/2016-02-26-debut-coming-soon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-debut-coming-soon.md
-published: true
 url: debut-coming-soon/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef45768f-eae4-4402-9c6d-1d027e0dbb01.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4654e9fb53e7bbeb837ce403965837ac3b3679cc.png)
 
 # Debut Coming Soon!
 
