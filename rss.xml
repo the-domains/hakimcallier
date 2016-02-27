@@ -4,21 +4,14 @@
         <description><![CDATA[music {{ art }} style]]></description>
         <link>http://hakimcallier.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 15:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 15:06:27 GMT</lastBuildDate>
         <atom:link href="http://hakimcallier.nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LP // coming soon... ]]></title>
-            <description><![CDATA[<article><h1>LP // coming soon... </h1><p>undefined</p></article>]]></description>
+            <description><![CDATA[<h1>LP // coming soon... </h1>]]></description>
             <link>http://hakimcallier.nyc/b5b706c6-2730-42f7-8fa4-a24decb2ccdc/index.html</link>
             <guid isPermaLink="false">b5b706c6-2730-42f7-8fa4-a24decb2ccdc</guid>
             <pubDate>Sat, 27 Feb 2016 15:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7b94954-0425-470f-b9e2-805b5fbdfd86.png">]]></description>
-            <link>http://hakimcallier.nyc/ab38d69d-2aff-4a95-81c8-e6d8800a674d/index.html</link>
-            <guid isPermaLink="false">ab38d69d-2aff-4a95-81c8-e6d8800a674d</guid>
-            <pubDate>Sat, 27 Feb 2016 14:55:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
