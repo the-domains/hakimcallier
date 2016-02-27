@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[music {{ art }} style]]></title>
         <description><![CDATA[music {{ art }} style]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://hakimcallier.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 15:42:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 15:43:45 GMT</lastBuildDate>
+        <atom:link href="http://hakimcallier.nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93c425d5-7303-45db-b614-f1ce4117911f.png">]]></description>
+            <link>http://hakimcallier.nyc/406f5324-080e-4dc3-8850-7b84a755be0b/index.html</link>
+            <guid isPermaLink="false">406f5324-080e-4dc3-8850-7b84a755be0b</guid>
+            <pubDate>Sat, 27 Feb 2016 15:42:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LP // coming soon... ]]></title>
             <description><![CDATA[<h1>LP // coming soon... </h1>]]></description>
-            <link>undefinede688b2b1-11bf-49a3-b6db-81de735c7b30/index.html</link>
+            <link>http://hakimcallier.nyc/e688b2b1-11bf-49a3-b6db-81de735c7b30/index.html</link>
             <guid isPermaLink="false">e688b2b1-11bf-49a3-b6db-81de735c7b30</guid>
             <pubDate>Sat, 27 Feb 2016 15:41:54 GMT</pubDate>
         </item>
