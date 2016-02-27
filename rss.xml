@@ -4,21 +4,21 @@
         <description><![CDATA[music {{ art }} style]]></description>
         <link>http://hakimcallier.nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 04:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 14:41:02 GMT</lastBuildDate>
         <atom:link href="http://hakimcallier.nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LP // coming soon...]]></title>
+            <description><![CDATA[<h1>LP // coming soon...</h1>]]></description>
+            <link>http://hakimcallier.nyc/09bd5bc3-8965-49fb-bc40-8583b545a05c/index.html</link>
+            <guid isPermaLink="false">09bd5bc3-8965-49fb-bc40-8583b545a05c</guid>
+            <pubDate>Sat, 27 Feb 2016 14:39:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/580a032f-e17b-408a-bbd3-7598d513f792.png">]]></description>
             <link>http://hakimcallier.nyc/8c131eb9-ae93-4393-8808-c3f89bc4eb2e/index.html</link>
             <guid isPermaLink="false">8c131eb9-ae93-4393-8808-c3f89bc4eb2e</guid>
-            <pubDate>Fri, 26 Feb 2016 03:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LP // coming soon...]]></title>
-            <description><![CDATA[<article><h1>LP // coming soon...</h1><p>undefined</p></article>]]></description>
-            <link>http://hakimcallier.nyc/09bd5bc3-8965-49fb-bc40-8583b545a05c/index.html</link>
-            <guid isPermaLink="false">09bd5bc3-8965-49fb-bc40-8583b545a05c</guid>
-            <pubDate>Fri, 26 Feb 2016 04:24:24 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 14:40:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
